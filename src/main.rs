@@ -1,3 +1,4 @@
+use ansi_term::Colour::Red;
 use ordinal::Ordinal;
 
 const TWELVE_DAYS: [&str; 12] = [
@@ -32,6 +33,14 @@ fn gen_verse(day: usize) -> String {
 }
 
 fn main() {
+    let xmas_tree = '\u{1F384}';
+    let title = Red
+        .bold()
+        .italic()
+        .underline()
+        .paint("TWELVE DAYS OF CHRISTMAS!");
+    println!("\n\t{}{}{}\n", xmas_tree, title, xmas_tree);
+
     for i in 1..=12 {
         println!("{}\n", gen_verse(i))
     }

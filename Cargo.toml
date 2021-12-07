@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 ordinal = "0.2.3"
+ansi_term = "0.12.1"
