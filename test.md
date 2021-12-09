@@ -1,3 +1,5 @@
-<h3>12 Surfs of Christmas</h3> <small>Audio by <a href="https://static.wikia.nocookie.net/smurfsfanon/images/6/68/Smurfs_-_The_Twelve_Smurfs_Of_Christmas.ogg/revision/latest?cb=20131220194922">Smurfs</a> 
+<h3>Flamingo Sounds</h3> <audio controls id="audio-example" preload="auto"> <!-- One or more source files, each referencing the same audio but in a different file format. The browser will choose the first file which it is able to play. --> <source src="/wp-content/uploads/flamingos.ogg"> <source src="/wp-content/uploads/flamingos.mp3"> You will see this text if native audio playback is not supported. <!-- You could use this fall-back feature to insert a JavaScript-based audio player. --> </audio> <small>Audio by <a href="https://soundcloud.com/beeldengeluid">Beeld en Geluid</a> [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AArtis%2C_enkele_flamingo&#039;s_-_SoundCloud_-_Beeld_en_Geluid.ogg">via Wikimedia Commons</a></small>
+
+Read more: https://html.com/attributes/audio-preload/#ixzz7EXLGwBgh
 
 Read more: https://html.com/attributes/audio-preload/#ixzz7EXEOspzE
