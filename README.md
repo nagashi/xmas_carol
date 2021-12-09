@@ -41,5 +41,24 @@
   * The inclusive range in the for loop.
   <p></p>
 </pre></details>
+<br><br><br>
+<div class="mediaContainer" style="width:180px"><audio id="mwe_player_0" controls="" preload="none" style="width:180px" class="kskin" data-durationhint="222.41569160998" data-startoffset="0" data-mwtitle="Smurfs_-_The_Twelve_Smurfs_Of_Christmas.ogg" data-mwprovider="local"><source src="https://static.wikia.nocookie.net/smurfsfanon/images/6/68/Smurfs_-_The_Twelve_Smurfs_Of_Christmas.ogg/revision/latest?cb=20131220194922" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (159 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="158851" /></audio></div>
+
+<br><br><br><br>
 
 
+<button type="button" onclick="handleBtnClick(event)" onKeyDown="handleBtnKeyDown(event)">
+  Play Audio
+</button>
+
+<span role="button" tabindex="0"
+ aria-pressed="true" onclick="handleBtnClick(event)"
+ onKeyDown="handleBtnKeyDown(event)">
+  Play Audio
+</span>
+
+<audio id="audio" src="https://soundbible.com/mp3/Tyrannosaurus%20Rex%20Roar-SoundBible.com-807702404.mp3">
+  
+</audio>
+
+<br><br>
