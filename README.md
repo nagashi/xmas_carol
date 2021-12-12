@@ -1,4 +1,4 @@
-<p style="text-align: center; font-size: 36px;">The 12 Days of Christmas</p><p style="font-family: URW Chancery L, cursive; font-size:24px;">written in Rust</p>
+<p style="text-align: center; font-size: 36px;">The 12 Days of Christmas</p>
 <p align="center"> 
         <img src = "images/Twelve_Smurfs_Of_Christmas.gif" alt="Image denoting the 12 Smurfs of Christmas"
           width="225"
