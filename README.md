@@ -1,19 +1,16 @@
- <p align="center">
-        <kbd><img src = "images/Twelve_Smurfs_Of_Christmas.gif" alt="Image denoting the 12 Smurfs of Christmas"
+<body><font size="6" align="center"> The 12 Days of Christmas<p style="font-family: URW Chancery L, cursive; font-size:24px;">written in Rust</p></font></body>
+<p align="center"> 
+        <img src = "images/Twelve_Smurfs_Of_Christmas.gif" alt="Image denoting the 12 Smurfs of Christmas"
           width="225"
           height="175"
           border="3"
-          borderColor="red"
-        /></kbd>
+        />
 </p>
 <br>
 <details>
-  <summary>Click <u><em>here</em></u> to list the 3 essential pieces of this program: </summary><p></p>
-  <ol type="I">
-    <b><li>The inclusive range in the for loop:
-    </b></li>
-    <br>
-  &ensp;The gen_verse function is called within the for loop of the main function with each of the inclusive 12 days being passed in as an argument.&ensp;The first line within gen_verse formats the day/number argument as an ordinal number, i.e. (1st, 2nd, 3rd, 4th, ...) and assigns the new value to a variable.&ensp;Next we work with the one constant phrase in the lyric <em>"On the {} day of Christmas, my true love gave to me"</em> and converts this phrase along with the ordinal variable into a string using the format! macro, which again, is assigned to a variable.
+  <summary>&ensp;Click to view explanation of this program </summary><p></p>
+  
+  &ensp;Programatically, The 12 Days of Christmas has been constructed in different languages in multiple ways. Each day begins with the line _"On the {} day of Christmas my true love sent to me:"._&ensp;To handle this, within the for loop of the main function, each of the inclusive 12 days is being passed to the gen_verse function.&ensp;The first line within gen_verse formats the day/number argument as an ordinal number, i.e. (1st, 2nd, 3rd, 4th, ...) and assigns the new value to a variable.&ensp;Next we work with the one constant phrase in the lyric <em>"On the {} day of Christmas, my true love gave to me"</em> and converts this phrase along with the ordinal variable into a string using the format! macro, which again, is assigned to a variable.
   <br> <br>
   <b><li>The constant array listed in descending order.</li></b><br> 
   <b><li>The skip method.</b></li>
