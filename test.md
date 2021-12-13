@@ -2,13 +2,12 @@
 
 <body>
 
-<h2>background-size: auto:</h2>
-<div style="border: 2px solid black;
+<div border: 2px solid black;
   padding: 25px;
   background: url(images/SnowFalling.gif);
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: center;">
+  text-align: center;>
   <h1>The 12 Days of Christmas</h1>
   <p>Written in Rust</p>
   <details>
