@@ -1,4 +1,6 @@
-<h1 align="center">The 12 Days of Christmas</h1>
+<h1 align="center">The 12 Days of Christmas
+  <h3 align="center">Written in Rust</h3>
+</h1>
 <p align="center"> 
         <img src = "images/Twelve_Smurfs_Of_Christmas.gif" alt="Image denoting the 12 Smurfs of Christmas"
           width="225"
@@ -10,8 +12,14 @@
 <details>
   <summary>&ensp;Click to view explanation of this program </summary><p></p>
   
-  &ensp;Programatically, The 12 Days of Christmas has been constructed in different languages in multiple ways. Each day begins with the line _"On the {} day of Christmas my true love sent to me:"._&ensp;To handle this, within the for loop of the main function, each of the inclusive 12 days is being passed to the gen_verse function.&ensp;The first line within gen_verse formats the day/number argument as an ordinal number, i.e. (1st, 2nd, 3rd, 4th, ...) and assigns the new value to a variable.&ensp;Next we work with the one constant phrase in the lyric <em>"On the {} day of Christmas, my true love gave to me"</em> and converts this phrase along with the ordinal variable into a string using the format! macro, which again, is assigned to a variable.
-  <br> <br>
+  &ensp;&ensp;Programatically, "The 12 Days of Christmas" has been constructed in different programming languages and in multiple ways. What follows is my rendition as written using the Rust language.
+  <br>
+  &ensp;&ensp;Within the for loop of the main function, each of the inclusive 12 days is being passed to the gen_verse function.&ensp;The first line within gen_verse formats the day/number argument as an ordinal number, i.e. (1st, 2nd, 3rd, 4th, ...) and assigns the value to the variable 'ordinal_suffix'.&ensp; &ensp;Next we work with the one constant phrase in the lyric _"On the {} day of Christmas my true love sent to me:"._ and converts this phrase along with the ordinal_suffix variable into a string using the format! macro, which is assigned to the variable 'begin'.
+  <br>
+  
+
+
+  
   <b><li>The constant array listed in descending order.</li></b><br> 
   <b><li>The skip method.</b></li>
 </ol>
