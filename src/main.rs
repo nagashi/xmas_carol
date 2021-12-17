@@ -1,3 +1,21 @@
+/*
+*********************************************************************************
+*                                                                               *
+* FILE: main.rs                                                                 *
+*                                                                               *
+* DESCRIPTION: This is one of may possible ways in which                        *
+*              The 12 Days of Christmas can be coded.                           *
+*              See README file for more details.                                *
+*                                                                               *
+* DEVELOPER: Charles E. O'Riley Jr.                                             *
+* DEVELOPER PHONE: +1 (615) 983-1474                                            *
+* DEVELOPER EMAIL: ceoriley@gmail.com                                           *
+*                                                                               *
+* RUST VERSION: 1.57.0                                                          *
+* CREATED DATE-TIME: 20211216-16:00 Central Time Zone USA                       *                                                                                  #
+*********************************************************************************
+*/
+
 use ansi_term::Colour::Red;
 use ordinal::Ordinal;
 
