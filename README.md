@@ -11,7 +11,7 @@
 
 <br>
 <details>
-  <summary align="center">&ensp;Click to view a description of this program </summary><p></p>
+  <summary align="center">&ensp;Click <i><u>here</u></i> to view a description of this program </summary><p></p>
   
   &ensp;&ensp;Programatically, "The 12 Days of Christmas" has been constructed in different programming languages and in multiple ways.&ensp;&ensp;What follows is my rendition as written using the Rust language.
   <br>
@@ -28,7 +28,7 @@
           border="0"
         />&nbsp;&nbsp;The source code can be viewed in the [src/main](https://github.com/nagashi/xmas_carol/blob/main/src/main.rs) folder for those unfamiliar with the Rust language.
  </details>  
-<br><br>
+<br>
 <div align="center">12 Days of Christmas output</div>
 <p align="center">
         <img src = "images/output.gif" alt="Image denoting the program output"
