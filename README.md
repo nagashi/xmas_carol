@@ -8,6 +8,8 @@
           border="3"
         />
 </p>
+[![MIT licensed][mit-badge]][mit-url]
+
 <br>
 <details>
   <summary align="center">&ensp;Click to view an explanation of this program </summary><p></p>
@@ -36,12 +38,18 @@
           border="3"
         />
 </p>
-<br><br><br><br>
-<p align="center">
-        <img src = "images/ok.png" alt="Image denoting Ok"
-          width="30"
-          height="20"
-          border="0"
-        />
-</p>
+<br>
+<br>
+<p>
 
+### License
+
+This project is licensed under the&nbsp;[MIT license](LICENSE).
+
+### Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally submitted
+for inclusion in Tracing by you, shall be licensed as MIT, without any additional
+terms or conditions.
+
+</p>
