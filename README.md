@@ -8,11 +8,10 @@
           border="3"
         />
 </p>
-[![MIT licensed][mit-badge]][mit-url]
 
 <br>
 <details>
-  <summary align="center">&ensp;Click to view an explanation of this program </summary><p></p>
+  <summary align="center">&ensp;Click to view a description of this program </summary><p></p>
   
   &ensp;&ensp;Programatically, "The 12 Days of Christmas" has been constructed in different programming languages and in multiple ways.&ensp;&ensp;What follows is my rendition as written using the Rust language.
   <br>
@@ -38,6 +37,11 @@
           border="3"
         />
 </p>
+<div align="center" > 
+
+
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+</div>
 <br>
 <br>
 <p>
