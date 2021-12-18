@@ -22,7 +22,7 @@
   &ensp;&ensp;The final piece of the function deals with displaying the Christmas presents.&ensp;&ensp;A constant array housing the gifts is constructed in decending order.&ensp;&ensp;After skipping '12 - n' items in the array, beginning with the first item, which is "Twelve drummers drumming", the remaining items are iterated over for that day and any previous day(s).&ensp;&ensp;For each iteration, a new line character is appended and then the lyric is appended to the 'begin' variable.&ensp;&ensp;At the completion of that days' iteration, the 'begin' variable is returned from the gen_verse function to the calling function and printed.&ensp;&ensp;This process is completed for each 'day' value passed to gen_verse.&ensp;&ensp;The output can be viewed in the image below.
   <br>
   <br>
-  Thanks for reading and do reach out and let me know if you have any questions or concerns.&nbsp;&nbsp;Click 'Star' if you like the program.&nbsp;&nbsp;All suggestions, constructive, even non-constructive,&nbsp;will be welcoming<img src = "images/ok.png" alt="Image denoting Ok"
+  Thanks for reading and do reach out and let me know if you have any questions or concerns.&nbsp;&nbsp;Click 'Star' if you like the program.&nbsp;&nbsp;All suggestions, constructive, even non-constructive,&nbsp;will be welcomed<img src = "images/ok.png" alt="Image denoting Ok"
           width="30"
           height="20"
           border="0"
