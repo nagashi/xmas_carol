@@ -37,10 +37,10 @@
           border="3"
         />
 </p>
-<div align="center" > 
+<div align="center"> 
 
+[![MIT licensed][mit-badge]][mit-url]&nbsp;&nbsp;[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 </div>
 <br>
 <br>
@@ -50,6 +50,8 @@
 
 This project is licensed under the&nbsp;[MIT license](LICENSE).
 
+[mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
+[mit-url]: LICENSE
 ### Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
