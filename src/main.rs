@@ -19,10 +19,7 @@ const TWELVE_DAYS: [&str; 12] = [
 fn gen_verse(day: usize) -> String {
     let ordinal_suffix = Ordinal(day);
 
-    let mut begin = format!(
-        "On the {} day of Christmas, my true love gave to me:",
-        ordinal_suffix
-    );
+    let mut begin = format!("On the {ordinal_suffix} day of Christmas, my true love gave to me:");
 
     for line in TWELVE_DAYS.iter().skip(12 - day) {
         begin.push('\n');
@@ -39,7 +36,7 @@ fn main() {
         .italic()
         .underline()
         .paint("TWELVE DAYS OF CHRISTMAS!");
-    println!("\n\t{}{}{}\n", xmas_tree, title, xmas_tree);
+    println!("\n\t{xmas_tree}{title}{xmas_tree}\n");
 
     for i in 1..=12 {
         println!("{}\n", gen_verse(i))
